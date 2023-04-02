@@ -1,1 +1,1 @@
-Example project and playground for the [Chrome]
+Example project and playground for the Chrome Extension.
